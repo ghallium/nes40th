@@ -1,0 +1,33 @@
+.slider {
+    width: 100%;
+    background-repeat: repeat-x;
+    overflow: hidden;
+    /* height: 300px; */
+}
+
+.slider-images {
+    width: 200%;
+    display: flex;
+    animation: scrolling 20s linear infinite;
+}
+
+.slider img {
+    width: 100%;
+    
+}
+
+@keyframes scrolling {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-50%);
+    }
+}
+
+@media screen and (min-width:350px) and (max-width:1024px) {
+    
+    .slider-images {
+        width: 400%;
+    }
+}

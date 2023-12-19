@@ -1,0 +1,594 @@
+[
+    {
+        "id": "1985-01",
+        "title": "Baseball",
+        "releaseYear":"1985",
+        "boxart":"/boxarts/1985/baseball.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1",
+        "genre": "Sports"
+    },
+    {
+        "id": "1985-02",
+        "title": "Bomberman",
+        "releaseYear":"1985",
+        "boxart":"/boxarts/1985/bomberman.jpg",
+        "publisher": "Hudson Soft",
+        "developer": "Hudson Soft",
+        "genre": "Action"
+    },
+    {
+        "id": "1985-03",
+        "title": "Clu Clu Land",
+        "releaseYear":"1985",
+        "boxart":"/boxarts/1985/clucluland.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1",
+        "genre": "Puzzle"
+    },
+    {
+        "id": "1985-04",
+        "title": "Duck Hunt",
+        "releaseYear":"1985",
+        "boxart":"/boxarts/1985/duckhunt.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1",
+        "genre": "Shooting"
+    },
+    {
+        "id": "1985-05",
+        "title": "Excitebike",
+        "releaseYear":"1985",
+        "boxart":"/boxarts/1985/excitebike.webp",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D4",
+        "genre": "Racing"
+    },
+    {
+        "id": "1985-06",
+        "title": "Golf",
+        "releaseYear":"1985",
+        "boxart":"/boxarts/1985/golf.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D2",
+        "genre": "Sports"
+    },
+    {
+        "id": "1985-07",
+        "title": "Gyromite",
+        "releaseYear":"1985",
+        "boxart":"/boxarts/1985/gyromite.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1",
+        "genre": "Puzzle"
+    },
+    {
+        "id": "1985-08",
+        "title": "Hogan's Alley",
+        "releaseYear":"1985",
+        "boxart":"/boxarts/1985/hogansalley.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1 / Intelligent Systems",
+        "genre": "Shooting"
+    },
+    {
+        "id": "1985-09",
+        "title": "Ice Climber",
+        "releaseYear":"1985",
+        "boxart":"/boxarts/1985/iceclimber.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1",
+        "genre": "Platform / Arcade"
+
+    },
+    {
+        "id": "1985-10",
+        "title": "Kung Fu",
+        "releaseYear":"1985",
+        "boxart":"/boxarts/1985/kungfu.jpg",
+        "publisher": "Nintendo",
+        "developer": "Irem",
+        "genre": "Beat'em up"
+
+    },
+    {
+        "id": "1985-13",
+        "title": "Pinball",
+        "releaseYear":"1985",
+        "boxart":"/boxarts/1985/pinball.png",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1 / HAL Laboratory",
+        "genre": "Pinball"
+    },
+    {
+        "id": "1985-14",
+        "title": "Stack-Up",
+        "releaseYear":"1985",
+        "boxart":"/boxarts/1985/stackup.webp",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1",
+        "genre": "Puzzle"
+    },
+    {
+        "id": "1985-15",
+        "title": "Super Mario Bros.",
+        "releaseYear":"1985",
+        "boxart":"/boxarts/1985/supermariobros.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D4",
+        "genre": "Platform"
+    },
+    {
+        "id": "1985-16",
+        "title": "Tennis",
+        "releaseYear":"1985",
+        "boxart":"/boxarts/1985/tennis.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1 / Intelligent Systems",
+        "genre": "Sports"
+    },
+    {
+        "id": "1985-17",
+        "title": "Wild Gunman",
+        "releaseYear":"1985",
+        "boxart":"/boxarts/1985/wildgunman.png",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1",
+        "genre": "Shooting"
+    },
+    {
+        "id": "1985-18",
+        "title": "Wrecking Crew",
+        "releaseYear":"1985",
+        "boxart":"/boxarts/1985/wreckingcrew.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1",
+        "genre": "Action"
+    },
+    {
+        "id": "1986-00",
+        "title": "Balloon Fight",
+        "releaseYear":"1986",
+        "boxart":"/boxarts/1986/balloonfight.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1 / HAL Laboratory",
+        "genre": "Arcade"
+    },
+    {
+        "id": "1986-01",
+        "title": "Donkey Kong",
+        "releaseYear":"1986",
+        "boxart":"/boxarts/1986/donkeykong.webp",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1",
+        "genre": "Platform / Arcade"
+    },
+    {
+        "id": "1986-02",
+        "title": "Donkey Kong Jr.",
+        "releaseYear":"1986",
+        "boxart":"/boxarts/1986/donkeykongjr.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1",
+        "genre": "Platform / Arcade"
+    },
+    {
+        "id": "1986-03",
+        "title": "Donkey Kong 3",
+        "releaseYear":"1986",
+        "boxart":"/boxarts/1986/donkeykong3.webp",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1",
+        "genre": "Platform / Arcade"
+    },
+    {
+        "id": "1986-04",
+        "title": "Ghosts 'n Goblins",
+        "releaseYear":"1986",
+        "boxart":"/boxarts/1986/ghostsngoblins.webp",
+        "publisher": "Capcom",
+        "developer": "Capcom",
+        "genre": "Action"
+    },
+    {
+        "id": "1986-05",
+        "title": "Gradius",
+        "releaseYear":"1986",
+        "boxart":"/boxarts/1986/gradius.webp",
+        "publisher": "Konami",
+        "developer": "Konami",
+        "genre": "Shoot'em up"
+    },
+    {
+        "id": "1986-06",
+        "title": "Mario Bros",
+        "releaseYear":"1986",
+        "boxart":"/boxarts/1986/mariobros.webp",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1 / Intelligent Systems",
+        "genre": "Platform / Arcade"
+    },
+    {
+        "id": "1986-07",
+        "title": "Popeye",
+        "releaseYear":"1986",
+        "boxart":"/boxarts/1986/popeye.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1",
+        "genre": "Platform / Arcade"
+    },
+    {
+        "id": "1986-08",
+        "title": "Urban Champion",
+        "releaseYear":"1986",
+        "boxart":"/boxarts/1986/urbanchampion.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1",
+        "genre": "Beat'em up"
+    },
+    {
+        "id": "1987-01",
+        "title": "Castlevania",
+        "releaseYear":"1987",
+        "boxart":"/boxarts/1987/castlevania.png",
+        "publisher": "Konami",
+        "developer": "Konami",
+        "genre": "Platform / Action"
+    },
+    {
+        "id": "1987-02",
+        "title": "Kid Icarus",
+        "releaseYear":"1987",
+        "boxart":"/boxarts/1987/kidicarus.webp",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1",
+        "genre": "Platform"
+    },
+    {
+        "id": "1987-03",
+        "title": "The Legend of Zelda",
+        "releaseYear":"1987",
+        "boxart":"/boxarts/1987/zelda.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D4",
+        "genre": "Adventure / Action"
+    },
+    {
+        "id": "1987-04",
+        "title": "Mega Man",
+        "releaseYear":"1987",
+        "boxart":"/boxarts/1987/megaman.webp",
+        "publisher": "Capcom",
+        "developer": "Capcom",
+        "genre": "Platform / Action"
+    },
+    {
+        "id": "1987-05",
+        "title": "Metroid",
+        "releaseYear":"1987",
+        "boxart":"/boxarts/1987/metroid.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1",
+        "genre": "Platform / Action"
+    },
+    {
+        "id": "1987-06",
+        "title": "Mike Tyson's Punch-Out!",
+        "releaseYear":"1987",
+        "boxart":"/boxarts/1987/punchout.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D3",
+        "genre": "Boxing"
+    },
+    {
+        "id": "1987-07",
+        "title": "Pro Wrestling",
+        "releaseYear":"1987",
+        "boxart":"/boxarts/1987/prowrestling.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo",
+        "genre": "Wrestling"
+    },
+    {
+        "id": "1987-08",
+        "title": "Rad Racer",
+        "releaseYear":"1987",
+        "boxart":"/boxarts/1987/radracer.jpg",
+        "publisher": "Nintendo",
+        "developer": "Square",
+        "genre": "Racing"
+    },
+    {
+        "id": "1987-09",
+        "title": "Rygar",
+        "releaseYear":"1987",
+        "boxart":"/boxarts/1987/rygar.jpg",
+        "publisher": "Tecmo",
+        "developer": "Tecmo",
+        "genre": "Platform / Action"
+    },
+    {
+        "id": "1987-10",
+        "title": "Soccer",
+        "releaseYear":"1987",
+        "boxart":"/boxarts/1987/soccer.jpg",
+        "publisher": "Nintendo",
+        "developer": "Intelligent Systems",
+        "genre": "Sports"
+    },
+    {
+        "id": "1987-11",
+        "title": "Volleyball",
+        "releaseYear":"1987",
+        "boxart":"/boxarts/1987/volleyball.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1",
+        "genre": "Sports"
+    },
+    {
+        "id": "1988-01",
+        "title": "Adventure Island",
+        "releaseYear":"1988",
+        "boxart":"/boxarts/1988/adventureisland.png",
+        "publisher": "Hudson Soft",
+        "developer": "Hudson Soft",
+        "genre": "Platform"
+    },
+    {
+        "id": "1988-02",
+        "title": "Bionic Commando",
+        "releaseYear":"1988",
+        "boxart":"/boxarts/1988/bioniccommando.jpg",
+        "publisher": "Capcom",
+        "developer": "Capcom",
+        "genre": "Platform / Action"
+    },
+    {
+        "id": "1988-03",
+        "title": "Blaster Master",
+        "releaseYear":"1988",
+        "boxart":"/boxarts/1988/blastermaster.jpg",
+        "publisher": "Sunsoft",
+        "developer": "Sunsoft",
+        "genre": "Platform / Action"
+    },
+    {
+        "id": "1988-04",
+        "title": "Castlevania II: Simon's Quest",
+        "releaseYear":"1988",
+        "boxart":"/boxarts/1988/castlevania2.jpg",
+        "publisher": "Konami",
+        "developer": "Konami",
+        "genre": "Platform / Action"
+    },
+    {
+        "id": "1988-05",
+        "title": "Contra",
+        "releaseYear":"1988",
+        "boxart":"/boxarts/1988/contra.jpg",
+        "publisher": "Konami",
+        "developer": "Konami",
+        "genre": "Platform / Action"
+    },
+    {
+        "id": "1988-06",
+        "title": "Double Dragon",
+        "releaseYear":"1988",
+        "boxart":"/boxarts/1988/doubledragon.jpg",
+        "publisher": "Tradewest",
+        "developer": "Technos Japan",
+        "genre": "Beat'em up"
+    },
+    {
+        "id": "1988-07",
+        "title": "Ice Hockey",
+        "releaseYear":"1988",
+        "boxart":"/boxarts/1988/icehockey.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D2 / Nintendo R&D4",
+        "genre": "Sports"
+    },
+    {
+        "id": "1988-08",
+        "title": "Pac-Man",
+        "releaseYear":"1988",
+        "boxart":"/boxarts/1988/pacman.webp",
+        "publisher": "Namco",
+        "developer": "Namco",
+        "genre": "Arcade"
+    },
+    {
+        "id": "1988-09",
+        "title": "R.C. Pro-Am",
+        "releaseYear":"1988",
+        "boxart":"/boxarts/1988/rcproam.jpg",
+        "publisher": "Rare",
+        "developer": "Nintendo",
+        "genre": "Racing"
+    },
+    {
+        "id": "1988-10",
+        "title": "Super Mario Bros. 2",
+        "releaseYear":"1988",
+        "boxart":"/boxarts/1988/supermariobros2.png",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D4",
+        "genre": "Platform"
+    },
+    {
+        "id": "1988-11",
+        "title": "Track & Field II",
+        "releaseYear":"1988",
+        "boxart":"/boxarts/1988/trackandfield2.jpg",
+        "publisher": "Konami",
+        "developer": "Konami",
+        "genre": "Sports"
+    },
+    {
+        "id": "1988-11",
+        "title": "The Legend of Zelda II: The Adventure of Link",
+        "releaseYear":"1988",
+        "boxart":"/boxarts/1988/zelda2.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D4",
+        "genre": "Adventure / Action"
+    },
+    {
+        "id": "1989-01",
+        "title": "Castlevania III: Dracula's Curse",
+        "releaseYear":"1989",
+        "boxart":"/boxarts/1989/castlevania3.webp",
+        "publisher": "Konami",
+        "developer": "Konami",
+        "genre": "Platform / Action"
+    },
+    {
+        "id": "1989-02",
+        "title": "Mega Man 2",
+        "releaseYear":"1989",
+        "boxart":"/boxarts/1989/megaman2.jpg",
+        "publisher": "Capcom",
+        "developer": "Capcom",
+        "genre": "Platform / Action"
+    },
+    {
+        "id": "1989-03",
+        "title": "Ninja Gaiden",
+        "releaseYear":"1989",
+        "boxart":"/boxarts/1989/ninjagaiden.jpg",
+        "publisher": "Tecmo",
+        "developer": "Tecmo",
+        "genre": "Platform / Action"
+    },
+    {
+        "id": "1989-04",
+        "title": "Tecmo Bowl",
+        "releaseYear":"1989",
+        "boxart":"/boxarts/1989/tecmobowl.jpg",
+        "publisher": "Tecmo",
+        "developer": "Tecmo",
+        "genre": "Sports"
+    },
+    {
+        "id": "1989-05",
+        "title": "Tetris",
+        "releaseYear":"1989",
+        "boxart":"/boxarts/1989/tetris.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1",
+        "genre": "Puzzle"
+    },
+    {
+        "id": "1990-01",
+        "title": "Double Dragon II: The Revenge",
+        "releaseYear":"1990",
+        "boxart":"/boxarts/1990/ddragon2.jpg",
+        "publisher": "Acclaim",
+        "developer": "Technos Japan",
+        "genre": "Beat'em up"
+    },
+    {
+        "id": "1990-02",
+        "title": "Dr. Mario",
+        "releaseYear":"1990",
+        "boxart":"/boxarts/1990/drmario.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D1",
+        "genre": "Puzzle"
+    },
+    {
+        "id": "1990-03",
+        "title": "Final Fantasy",
+        "releaseYear":"1990",
+        "boxart":"/boxarts/1990/finalfantasy.jpg",
+        "publisher": "Nintendo",
+        "developer": "Square",
+        "genre": "Role-playing game"
+    },
+    {
+        "id": "1990-04",
+        "title": "Nintendo World Cup",
+        "releaseYear":"1990",
+        "boxart":"/boxarts/1990/nintendoworldcup.jpg",
+        "publisher": "Nintendo",
+        "developer": "Technos Japan",
+        "genre": "Sports"
+    },
+    {
+        "id": "1990-05",
+        "title": "StarTropics",
+        "releaseYear":"1990",
+        "boxart":"/boxarts/1990/startropics.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D3",
+        "genre": "Adventure / Action"
+    },
+    {
+        "id": "1990-06",
+        "title": "Super C",
+        "releaseYear":"1990",
+        "boxart":"/boxarts/1990/superC.jpg",
+        "publisher": "Konami",
+        "developer": "Konami",
+        "genre": "Platform / Action"
+    },
+    {
+        "id": "1990-07",
+        "title": "Super Mario Bros. 3",
+        "releaseYear":"1990",
+        "boxart":"/boxarts/1990/smb3.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D4",
+        "genre": "Platform"
+    },
+    {
+        "id": "1991-01",
+        "title": "NES Open Tournament Golf",
+        "releaseYear":"1991",
+        "boxart":"/boxarts/9193/nesopen.jpg",
+        "publisher": "Nintendo",
+        "developer": "Nintendo R&D2",
+        "genre": "Sports"
+    },
+    {
+        "id": "1992-01",
+        "title": "Yoshi",
+        "releaseYear":"1992",
+        "boxart":"/boxarts/9193/yoshi.jpg",
+        "publisher": "Nintendo",
+        "developer": "Game Freak",
+        "genre": "Puzzle"
+    },
+    {
+        "id": "1993-01",
+        "title": "Kirby's Adventure",
+        "releaseYear":"1993",
+        "boxart":"/boxarts/9193/kirby.jpg",
+        "publisher": "Nintendo",
+        "developer": "HAL Laboratory",
+        "genre": "Platform"
+    },
+    {
+        "id": "1993-02",
+        "title": "Yoshi's Cookie",
+        "releaseYear":"1993",
+        "boxart":"/boxarts/9193/yoshiscookie.jpg",
+        "publisher": "Nintendo",
+        "developer": "Tose",
+        "genre": "Puzzle"
+    },
+    {
+        "id": "1994-01",
+        "title": "Wario's Woods",
+        "releaseYear":"1994",
+        "boxart":"/boxarts/9193/warioswoods.jpg",
+        "publisher": "Nintendo",
+        "developer": "TEC",
+        "genre": "Puzzle"
+    }
+
+
+
+
+
+]

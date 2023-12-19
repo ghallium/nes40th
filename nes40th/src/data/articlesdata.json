@@ -1,0 +1,24 @@
+[
+    {
+        "id":"art001",
+        "title": "Nintendo Power Podcast - NES 40th Anniversary",
+        "subtitle":"Our Favorite Games, Memories & More !",
+        "description":"The Nintendo Entertainment System™ burst onto the scene in North America 40 years ago this month, sparking the era of classic Nintendo experiences like Super Mario Bros.™, Metroid™ and The Legend of Zelda™ games. In honor of the occasion, Chris is joined by Sam from Nintendo Treehouse and David from the Communications team at Nintendo of America to share their favorite NES™ games and memories. Now you're playing with power !",
+        "previewImage": "/articles/art01image.png"
+    },
+    {
+        "id":"art002",
+        "title": "Discover the LEGO Nintendo Entertainment System",
+        "subtitle":"Now you're playing with power...and bricks !",
+        "description":"Recreate classic Super Mario Bros. gameplay with this cool LEGO Nintendo Entertainment System! Place the Game Pack in the brick-built console. Turn the handle on the retro TV to make 8-bit Mario move across the screen. And place LEGO Mario from the LEGO Super Mario Starter Course in the slot on top so he reacts to the on-screen enemies, obstacles and power-ups, while the original game theme tune plays!",
+        "previewImage": "/articles/art02image.png"
+    },
+    {
+        "id": "art003",
+        "title": "Vote for your favorite NES title",
+        "subtitle": "And get it for free forever on your Nintendo Switch",
+        "description": "Vote for your all-time favorite title among a wide selection of NES classics. The game that gathered the most of votes will be available for free on the Nintendo Switch eshop, forever.",
+        "previewImage": "/articles/art03image.png"
+
+    }
+]
